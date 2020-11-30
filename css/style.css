@@ -2,7 +2,11 @@
     width: 200px;
     }
     
-    .fondo{
+.fondo{
         background: rgb(174,208,238);
     background: radial-gradient(circle, rgba(174,208,238,1) 0%, rgba(9,76,122,1) 37%);
+    }
+
+html{
+        scroll-behavior: smooth;
     }
